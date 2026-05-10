@@ -1,5 +1,5 @@
-const SUPABASE_URL = " https://dwqvgptbeucmeutlsign.supabase.co";
-const SUPABASE_KEY = " eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3cXZncHRiZXVjbWV1dGxzaWduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg0MjgwNjksImV4cCI6MjA5NDAwNDA2OX0.MwI6D8LMf9S0PK_6L_Hq4xM-Dnmj0R7JhnOjq_4jTuY ";
+const SUPABASE_URL = " https://dwqvgptbeucmeutlsign.supabase.co ";
+const SUPABASE_KEY = " eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3cXZncHRiZXVjbWV1dGxzaWduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg0MjgwNjksImV4cCI6MjA5NDAwNDA2OX0.MwI6D8LMf9S0PK_6L_Hq4xM-Dnmj0R7JhnOjq_4jTuY";
 
 const headers = {
   "Content-Type": "application/json",
